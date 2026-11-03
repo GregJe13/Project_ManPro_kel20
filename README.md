@@ -1,4 +1,4 @@
-# SIPREMA – Anomaly Detection on MetroPT-3 (Kelompok 20)
+# Anomaly Detection on MetroPT-3
 
 Anomaly detection for the air compressor (APU) of a Metro do Porto train, using the
 [MetroPT-3 dataset](https://archive.ics.uci.edu/dataset/791/metropt+3+dataset).
